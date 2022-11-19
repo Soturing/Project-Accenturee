@@ -1,0 +1,197 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.contenedor-principal{
+    background-image: url(/Resources/desigualdad-America-Latina-Caribe-COVID-19-coronavirus-ingresos-salud-educacion-raza-etnicidad-min.webp);
+    height: 100vh;
+    background-size:cover;
+    background-position:center;
+    text-decoration:wavy;
+  }
+
+  .contenedor-principal-2{
+    background-size:cover;
+    background-position:center;
+    text-decoration:wavy;
+  }
+
+  .title{
+    color:aliceblue;
+    font-size: 12vw;
+    text-align: center;
+    text-shadow: 12px 12px 4px rgba(0, 0, 0, 0.25);
+    font-weight: 400;
+    font-family: 'Gruppo', cursive;
+
+  }
+
+  .title-contact{
+    color:rgb(97, 97, 97);
+    font-size: 6vw;
+    text-align: center;
+    text-shadow: 12px 12px 4px rgba(0, 0, 0, 0.25);
+    font-weight: 300;
+    font-family: 'Gruppo', cursive;
+  }
+
+  .button{
+    border: 2px solid;
+    border-color: rgb(16, 125, 168);
+    background-color: white;
+    padding:9px 22px 9px 22px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: rgb(16, 125, 168);
+    font-weight: 400;
+    font-size: 30px;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+    font-family: 'Gruppo', cursive;
+  }
+
+  .button-2{
+    border: 2px solid;
+    border-color: rgb(16, 125, 168);
+    background-color: white;
+    padding:14px 28px 14px 28px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: rgb(16, 125, 168);
+    font-weight: 400;
+    font-size: 2.4rem;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+    font-family: 'Gruppo', cursive;
+  }
+
+  .button-3{
+    border: 2px solid;
+    border-color: rgb(16, 125, 168);
+    background-color: white;
+    padding:8px 22px 8px 22px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+    font-size: 30px;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+    font-family: 'Gruppo', cursive;
+    text-align: center;
+  }
+
+  .button-4{
+    border: 2px solid;
+    border-color: rgb(16, 125, 168);
+    background-color: white;
+    padding:10px 12px 10px 12px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+    font-size: 18px;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+    font-family: 'Gruppo', cursive;
+    text-align: center;
+  }
+
+  .button:hover{
+    color: white;
+    background-color: rgb(16, 125, 168);
+  }
+
+  .button-2:hover{
+    color: white;
+    background-color: rgb(16, 125, 168);
+  }
+
+  
+  .button-3:hover{
+    color: white;
+    background-color:rgb(16, 125, 168);
+  }
+
+  .button-4:hover{
+    color: white;
+    background-color:rgb(16, 125, 168);
+  }
+
+
+  .Title-2{
+    margin: auto;
+    padding: auto;
+    color:rgb(13, 71, 122);
+    font-size: 10vw;
+    text-align: left;
+    text-shadow: 6px 6px 2px rgba(0, 0, 0, 0.45);
+    font-weight: 400;
+    font-family: 'Gruppo', cursive;
+  }
+
+.col-md-12{
+    margin-top: 40px;
+    padding:0px 82px 0px 82px ;
+
+}
+
+  h4{
+    color: white;
+    text-align: center;
+    margin: 40px;
+  }
+  
+
+hr{
+  margin: auto;
+}
+
+  .txt{
+    text-align: left;
+  }
+
+  h2{
+    text-align: left;
+  }
+
+  .Solidaridad{
+    background-image: url(/Resources/ejemplos-de-solidaridad.jpg);
+    height: 100vh;
+    background-size:cover;
+    background-position:center;
+  }
+
+
+  .services{
+    color:rgb(88, 88, 88);
+    font-size: 8vw;
+    text-align: center;
+    font-weight: 400;
+    font-family: 'Gruppo', cursive;
+  }
+
+  .bige{
+    margin: auto;
+    border-radius: 25px;
+    height: 130vh;
+    width: 95vw;
+    background-color: rgb(230, 230, 230);
+  }
+
+  @media only screen and (max-width: 776px) {
+    .button-2{
+      border: 2px solid;
+      border-color: rgb(16, 125, 168);
+      background-color: white;
+      padding:14px 18px 14px 18px;
+      border-radius: 8px;
+      text-decoration: none;
+      color: rgb(16, 125, 168);
+      font-weight: 400;
+      font-size: 13px;
+      transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+      font-family: 'Gruppo', cursive;
+      
+    }
+
+
+}
+
